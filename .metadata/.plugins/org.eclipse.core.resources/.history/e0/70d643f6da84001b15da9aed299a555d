@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Servlet Introduction</title>
+</head>
+<body>
+<h1>Install Apache Tomcat</h1>
+<form action="first" method="post">
+<input type="text" name="username" placeholder ="Your username">
+<br/>
+<input type="password"  placeholder ="Your pasword">
+<br/>
+<input type="text" name="address" placeholder ="Your address">
+<br/>
+<input type="submit" value = "Go">
+</form>
+</body>
+</html>
